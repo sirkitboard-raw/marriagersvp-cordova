@@ -40,6 +40,9 @@ c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\js \
 c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\mainmenu.html \
 c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\css\index.css \
 c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\events\css \
+c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\events\gurudwara.html \
+c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\events\mehendi.html \
+c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\events\ringceremony.html \
 c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\events\wedding.html \
 c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\events\css\events.css \
 c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\img\background.png \
