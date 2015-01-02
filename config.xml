@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.adibalwani03.marriagersvp" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Bharat And Ritu Wedding</name>
+<widget id="com.adibalwani03.marrsvp" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Bharat and Ritu Wedding</name>
     <description>
         A sample Apache Cordova application that responds to the deviceready event.
     </description>
@@ -8,5 +8,8 @@
         Apache Cordova Team
     </author>
     <content src="index.html" />
-    <access origin="*" />
+    <access origin="tel:*" launch-external="yes" />
+    <access origin="geo:*" launch-external="yes" />
+    <access origin="http://*" launch-external="yes" />
+    <access origin="https://*" launch-external="yes" />
 </widget>
