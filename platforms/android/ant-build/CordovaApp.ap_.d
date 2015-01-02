@@ -29,6 +29,7 @@ c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\ant-build\res\drawa
 c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\ant-build\res\drawable-xhdpi\icon.png \
 c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www \
 c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\_where-is-www.txt \
+c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\contact.html \
 c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\cordova.js \
 c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\cordova_plugins.js \
 c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\css \
@@ -38,6 +39,7 @@ c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\img \
 c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\index.html \
 c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\js \
 c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\mainmenu.html \
+c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\plugins \
 c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\css\index.css \
 c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\events\css \
 c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\events\gurudwara.html \
@@ -47,7 +49,14 @@ c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\events\w
 c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\events\css\events.css \
 c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\img\background.png \
 c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\img\next.png \
+c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\img\ourstory.png \
+c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\img\phone.png \
 c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\img\welcome.png \
 c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\js\index.js \
 c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\js\jquery-2.1.3.min.js \
+c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\plugins\org.apache.cordova.dialogs \
+c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\plugins\org.apache.cordova.dialogs\www \
+c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\plugins\org.apache.cordova.dialogs\www\android \
+c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\plugins\org.apache.cordova.dialogs\www\notification.js \
+c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\plugins\org.apache.cordova.dialogs\www\android\notification.js \
 c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\ant-build\AndroidManifest.xml \
