@@ -119,36 +119,16 @@ h1 {
     height: auto;
 }
 
-/*#welcome {*/
-    /*color: #f5f2ef;*/
-    /*font-size: 1.65%;*/
-    /*padding: 3.3% 0;*/
-    /*margin:auto;*/
-    /*text-align: center;*/
-/*}*/
-
-/*#welcome-box-wrapper {*/
-    /*width: 80%;*/
-    /*margin: auto;*/
-/*}*/
-
-/*#welcome-box {*/
-    /*width: 90%;*/
-    /*height: auto;*/
-    /*margin: auto;*/
-/*}*/
-
 .mainMenu {
-    width: 100%;
-    margin: 0;
-    padding: 0;
-}
-.mainMenu ul {
-    list-style: none;
+    width: 90%;
     margin: auto;
     padding: 0;
-    width: 90%;
+    list-style: none;
+}
 
+.menuButton a {
+    text-decoration: none;
+    color : #FFFFFF;
 }
 
 .menuButton {
@@ -190,4 +170,3 @@ h1 {
     position:relative;
     top:1px;
 }
-
