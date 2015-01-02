@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2523e597-da10-4809-997e-e7a33001010b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/events/mehendi.html" afterPath="$PROJECT_DIR$/www/events/mehendi.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/events/gurudwara.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="marriagersvp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -79,8 +80,8 @@
       <file leaf-file-name="ringceremony.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/events/ringceremony.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.576923" vertical-offset="531" max-vertical-offset="1258">
-              <caret line="52" column="11" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="11" />
+            <state vertical-scroll-proportion="-5.076923" vertical-offset="531" max-vertical-offset="1258">
+              <caret line="39" column="34" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -96,11 +97,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="eventslist.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="eventslist.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/eventslist.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5714286" vertical-offset="228" max-vertical-offset="901">
-              <caret line="36" column="75" selection-start-line="36" selection-start-column="75" selection-end-line="36" selection-end-column="75" />
+            <state vertical-scroll-proportion="-20.653847" vertical-offset="228" max-vertical-offset="901">
+              <caret line="45" column="7" selection-start-line="45" selection-start-column="7" selection-end-line="45" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gurudwara.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www/events/gurudwara.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.63884676" vertical-offset="616" max-vertical-offset="1343">
+              <caret line="61" column="40" selection-start-line="61" selection-start-column="40" selection-end-line="61" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -133,6 +144,7 @@
         <option value="$PROJECT_DIR$/www/events/wedding.html" />
         <option value="$PROJECT_DIR$/www/events/Ring Ceremony.html" />
         <option value="$PROJECT_DIR$/www/events/mehendi.html" />
+        <option value="$PROJECT_DIR$/www/events/gurudwara.html" />
       </list>
     </option>
   </component>
@@ -474,14 +486,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/events/ringceremony.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.576923" vertical-offset="531" max-vertical-offset="1258">
-          <caret line="52" column="11" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/events/wedding.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-10.307693" vertical-offset="463" max-vertical-offset="1258">
@@ -500,8 +504,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/eventslist.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5714286" vertical-offset="228" max-vertical-offset="901">
-          <caret line="36" column="75" selection-start-line="36" selection-start-column="75" selection-end-line="36" selection-end-column="75" />
+        <state vertical-scroll-proportion="-20.653847" vertical-offset="228" max-vertical-offset="901">
+          <caret line="45" column="7" selection-start-line="45" selection-start-column="7" selection-end-line="45" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/events/ringceremony.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.076923" vertical-offset="531" max-vertical-offset="1258">
+          <caret line="39" column="34" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/events/gurudwara.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.63884676" vertical-offset="616" max-vertical-offset="1343">
+          <caret line="61" column="40" selection-start-line="61" selection-start-column="40" selection-end-line="61" selection-end-column="40" />
           <folding />
         </state>
       </provider>
