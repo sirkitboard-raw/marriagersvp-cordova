@@ -32,6 +32,7 @@ c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\_where-is-ww
 c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\contact.html \
 c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\cordova.js \
 c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\cordova_plugins.js \
+c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\countdown.html \
 c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\css \
 c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\events \
 c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\eventslist.html \
@@ -50,8 +51,8 @@ c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\events\c
 c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\img\background.png \
 c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\img\next.png \
 c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\img\ourstory.png \
-c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\img\phone.png \
 c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\img\welcome.png \
+c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\js\countdown.min.js \
 c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\js\index.js \
 c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\js\jquery-2.1.3.min.js \
 c:\Users\Aditya\Desktop\Test\marriagersvp2\platforms\android\assets\www\plugins\org.apache.cordova.dialogs \

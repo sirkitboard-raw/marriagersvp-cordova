@@ -338,3 +338,24 @@ hr {
     position:relative;
     top:1px;
 }
+
+.countdown {
+    width: 100%;
+    text-align: center;
+}
+
+.countdownTime {
+    font-size: 4vh;
+}
+
+.countdownText {
+    font-size: 2vh;
+}
+
+.countdownCell {
+    border-right: 2px solid #FFFFFF;
+}
+
+.story {
+    margin: 1vh 2vh;
+}
